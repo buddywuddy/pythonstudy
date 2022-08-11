@@ -2,7 +2,7 @@
 HANS PETTER LANGTANGEN
 A Primer on Scientific Programming with Python
 """
-##Chapter 1.1: Computing with formulas
+##Chapter 1.1: Computing With Formulas
 
 """
 The first formula to consider concerns the vertical motion of a ball thrown in the air. 
@@ -67,7 +67,7 @@ y = v0*t - 0.5*g*t**2
 print ('At t=%g seconds, the height of the ball is %.2f meters in the air. \n' % (t, y))
 
 """
-\n can be used to  insert a line between text in a string
+Note that \n can be used to  insert a line between text in a string
 """
 
 ##Printf EXTENSIONS:
