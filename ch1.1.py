@@ -2,7 +2,7 @@
 HANS PETTER LANGTANGEN
 A Primer on Scientific Programming with Python
 """
-##Chapter 1.1: Computing With Formulas
+##Chapter 1.1: The First Computer Programming Encounter - A Formula
 
 """
 The first formula to consider concerns the vertical motion of a ball thrown in the air. 

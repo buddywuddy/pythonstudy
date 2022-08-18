@@ -2,7 +2,7 @@
 HANS PETTER LANGTANGEN
 A Primer on Scientific Programming with Python
 """
-##Chapter 1.2: Computer Science Glossar
+##Chapter 1.2: Computer Science Glossary
 
 """
 Programmers often use very specific vocabulary when talking about programming.
@@ -55,3 +55,30 @@ y = y + 4
 print (y)       
 y = y*y         # the syntax y**2 is an equivalent of y*y
 print (y)
+
+##VOCABULARY (cont.)
+# syntax:               the specific rules and format that a computer program must follow to be correctly executed in a specific language
+
+"""EXAMPLE 5"""
+myvar = 5.2
+print (Myvar)
+
+"""
+This would result in a syntax error because the variable "myvar" does not match when called by the print statement deu to the capitalized "M"
+This means that "myvar" is an uncalled variable, while "Myvar" was never defined
+"""
+
+##VOCABULARY (cont.)
+# blank/whitespace:     spaces in a computer program. blanks are not essential for python in most cases, but do help user readability.
+
+"""EXAMPLE 6"""
+v0=3;g=9.81;t=0.6;y=v0*t-0.5*g*t**2;print(y)
+#adding blanks in this case becomes necessary in order to find errors in the code which is the difficult part of programming
+
+##VOCABULARY (cont.)
+# input data:           information that must be known beforehand
+# output data:          the result of running a program
+# user:                 a human interacting with a program
+# operating system:     a collection of program that manages the hardware and software resources (ex. Windows, MacOS, Linux, etc.)
+
+##END CHAPTER 1.2
